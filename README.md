@@ -208,13 +208,13 @@ Frontend developer from <strong>Saint Petersburg<strong/>
 <table width='100%'>
   <tr>
     <td align="center" width="110" height="90"> 
-      <a href="#debabin-stack" >
+      <a href="#kant0rin-stack" >
         <img src="https://brandeps.com/icon-download/N/Nestjs-icon-vector-01.svg" width="36" height="36" alt="Nestjs" />
       </a>
       <br>Nest JS
     </td>
     <td align="center" width="110" height="90">
-      <a href="#debabin-stack" >
+      <a href="#kant0rin-stack" >
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" width="36" height="36" alt="GraphQL" />
       </a>
       <br>GraphQL
